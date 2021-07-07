@@ -55,7 +55,7 @@ Check out the GitHub repository:
 </div>
 -->
 <h2>👀 Stats</h2>
-[![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrhumberto&theme=dark&show_icons=true)]
+[![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrhumberto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> About Humberto⚡:</h2>
 

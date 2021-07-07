@@ -55,6 +55,10 @@ Check out the GitHub repository:
 </div>
 -->
 <h2>👀 Stats</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=jrhumberto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrhumberto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> About Humberto⚡:</h2>
